@@ -1,4 +1,4 @@
-# Malicious
+# Python Auditing Vulnerability
 
 Demonstrates how a malicious package can insert a load-time poison pill to avoid detection by tools like Safety.
 
