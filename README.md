@@ -1,3 +1,5 @@
+See a detailed writeup at https://mulch.dev/blog/CVE-2020-5252-python-safety-vuln/
+
 # Python Auditing Vulnerability
 
 Demonstrates how a malicious package can insert a load-time poison pill to avoid detection by tools like Safety.
